@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=zkabyken)](https://git.io/streak-stats)
+![Zhalyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkabyken&theme=dark&show_icons=true)
